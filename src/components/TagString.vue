@@ -62,7 +62,6 @@ export default {
         } else this.visibility[i] = false;
         i++;
       }
-      console.log(totalLengths);
       this.componentKey++;
     },
     resize() {
