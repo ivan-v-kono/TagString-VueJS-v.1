@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    ********************************
+    
     <v-row class="tag-row ma-0 mt-2 pa-0 overflow-hidden" :class="aligning">
       <p
         class="tag-string ma-0 pa-0"
